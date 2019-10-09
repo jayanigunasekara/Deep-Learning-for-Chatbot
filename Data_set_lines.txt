@@ -1,0 +1,138 @@
+L0001$Student_0$I have a question about self finance ability.If I could get a part-time job like a developer or waiter, during my study, I could be a self-financed student, otherwise, I couldn't. What should I do?
+L0002$Admin$There are two possibilities of getting paid during the academic years. (One is from scholarship and from internship)
+L0003$Student_0$Can I know some information about the internships?																											
+L0004$Admin$Yes, There are two internships (one in first year, one in second year).  By law, note that internships in France that last at least 2 months have to be paid. This should allow you to save money and secure your stay in France.
+L0005$Student_0$Thank You!																											
+L0006$Admin$Thank you for your interest in our Master MLDM. We would advise you to check our website for further information 																											
+L0007$Student_0$Bye																											
+L0008$Admin$Good Bye																											
+L0009$Student_1$In the application form, I've uploaded signed and dated recommendation letters from two professors.Do I need to ask the professors again to mail you the recommendation letters themselves?
+L0010$Admin$The letter of recommendation need either to be uploaded on our application portal or sent by email to master.mldm@univ-st-etienne.fr																											
+L0011$Student_2$When will be admission decision announce ?																											
+L0012$Admin$you should receive the notification regarding your application by May 2019.																											
+L0013$Student_3$I want to apply for master MLDM. But I am pursuing last semester of my bachelors. My degree would be completed before admission. Can I apply with provisional marks?
+L0014$Admin$You can apply for the master MLDM even if you haven't validated your Bachelor degree yet. But at the date of registration you'll have to attest that you succeeded in August 2019 the latest. 																											
+L0015$Student_4$Can we do a part time job with the masters?																											
+L0016$Admin$yes you can work but you will have limited time as MLDM programme is a full time course.																											
+L0017$Student_5$How is the weather in Saint Etienne?																											
+L0018$Admin$https://www.google.com/search?q=weather+in+Saint+Etienne&oq=weather+in+Saint+Etienne+&aqs=chrome..69i57j33.7326j1j8&sourceid=chrome&ie=UTF-8																											
+L0019$Student_6$What are the possibilities of applying for a phd after this master programme?																											
+L0020$Admin$Please visit our website:   https://fac-sciences.univ-st-etienne.fr/en/departments/computer-science-department.html																											
+L0021$Student_7$When do I receive the selection letter?																											
+L0022$Admin$you should receive the notification regarding your application by May 2019.																											
+L0023$Student_8$Does the university support to apply the visa?																											
+L0024$Admin$Our team will guide you to follow the necessary steps related to visa.																											
+L0025$Student_9$How do I find an internship? Is it mandatory to speak French?																											
+L0026$Admin$You can apply for the internships whole over the world. Most international companies offer jobs for English speakers as well.																											
+L0027$Student_10$I am interested in working in a laboratory. How can I find a job in laboratory?
+L0028$Admin$Please contact academic advisers. https://mldm.univ-st-etienne.fr/contacts.php
+L0029$Student_11$If I couldn't find an internship or a lab position can I work on a project which I am interested?																											
+L0030$Admin$Yes you can. But the topic has to be approved by the academic coordinators.
+L0031$Student_12$How do I pay the university fees? Has it to be paid during the induction week? 																											
+L0032$Admin$Yes. At the date of registration you need to pay for the first year.																											
+L0033$Student_13$What is the reason for arranging an induction week? Is it compulsory to participate to the programs ?
+L0034$Admin$Yes. It is compulsory.
+L0035$Student_14$How is the living cost of the city Saint Etienne? 																											
+L0036$Admin$https://www.numbeo.com/cost-of-living/in/Saint-Etienne-France																											
+L0037$Student_15$What is the procedure to open a bank account in France? Does the university help us to open a bank account?																											
+L0038$Admin$Yes. The university cooperates with the banks and arrange a time to set up the accounts.
+L0039$Student_16$What happen if I couldn't complete the M2?																											
+L0040$Admin$You can terminate from M1.
+L0041$Student_16$If so, can I get my first year certificate?
+L0042$Admin$yes. You can																											
+L0043$Student_17$I have a question.																											
+L0044$Admin$Yes. How can I help you?																											
+L0045$Student_17$	How can I get selected for a scholarship?
+L0046$Admin$The  selected students who are eligible to scholarship will be notified directly by the MLDM steering committee.																											
+L0047$Student_18$Hi, I am coming from European union.
+L0048$Admin$Hello,
+L0049$Student_18$I have a health insurance from European Union. Do I have to change it to French health insurance?
+L0050$Admin$No. You don't need to change.																											
+L0051$Student_19$How can I find the details about the residence?																											
+L0052$Admin$You should contact the residence manager.																											
+L0053$Student_20$I've received an email stating that I have been selected for the MLDM program. 																											
+L0054$Admin$Yes, What is your problem?																											
+L0055$Student_20$Until now I didn't receive any email from administrative head for the next procedures to follow.																											
+L0056$Admin$They will get back to you soon.																											
+L0057$Student_21$How long is the semester?																											
+L0058$Admin$https://mldm.univ-st-etienne.fr/course_organisation.php																											
+L0059$Student_21$I would like to know some more details about the course.																											
+L0060$Admin$Please visit our website:  https://mldm.univ-st-etienne.fr/course_organisation.php																											
+L0061$Student_22$What is the deposit for an accommodation?
+L0062$Admin$Please contact the residence manager.																											
+L0063$Student_22$What documents do I need to provide to get an apartment?																											
+L0064$Admin$It varies according to the apartment. Please contact the residence manager.																											
+L0065$Student_23$What are the conditions of passing the exams?																											
+L0066$Admin$You should validate the year.																											
+L0067$Student_23$How can I validate the year?																											
+L0068$Admin$You should have to score at least 10/20.																											
+L0069$Student_23$If I couldn't validate the year what will happen?																											
+L0070$Admin$You should register again.																											
+L0071$Student_24$I have heard about the insurance in France.
+L0072$Admin$Yes, What is your problem?
+L0073$Student_24$What are the benefits we get from an insurance?
+L0074$Admin$https://www.ameli.fr/assure/droits-demarches/etudes-emploi-retraite/etudiant/student-your-medical-expenditure-coverage																											
+L0075$Student_24$What is the Ameli insurance?
+L0076$Admin$It is a health insurance in France. https://www.ameli.fr/assure/droits-demarches/etudes-emploi-retraite/etudiant/student-your-medical-expenditure-coverage
+L0077$Student_24$Social security process
+L0078$Admin$https://www.ameli.fr/assure/droits-demarches/etudes-emploi-retraite/etudiant/french-social-security-registration-process-foreign-students																											
+L0079$Student_25$Studying in France																											
+L0080$Admin$https://www.thelocal.fr/20180524/2513																											
+L0081$Student_25$Are there good restaurants in Saint Etienne?																											
+L0082$Admin$https://www.google.com/search?ei=i3DiXM2mHLmbjLsP1KyVkAg&q=resturants+in+Saint+Etienne+&oq=resturants+in+Saint+Etienne+&gs_l=psy-ab.3..0i13i30j0i22i30l6.31480.40995..41337...5.0..3.1486.6411.13j3j2j2j6-1j2......0....1..gws-wiz.......0i71j0i67j0i10j0i13j0i22i10i30.zs8B6JyPU8E																											
+L0083$Student_26$I have applied for visa. What would happen if they took more than two weeks?																											
+L0084$Admin$Contact our administration https://mldm.univ-st-etienne.fr/contacts.php																											
+L0085$Student_26$If I miss the induction week would it be a problem?																											
+L0086$Admin$No.You should show a proper justification.																											
+L0087$Student_26$I am very weak in French. Is there any way to learn French?																											
+L0088$Admin$Yes. The university provides a free french programme.																											
+L0089$Student_27$I am a English speaker. Would it be hard to live in France?																											
+L0090$Admin$No. You will be used to it.																											
+L0091$Student_28$	What is the structure of the course modules?																											
+L0092$Admin$https://mldm.univ-st-etienne.fr/course_organisation.php																											
+L0093$Student_29$Is it compulsory to pay 90 euros for sport activities?
+L0094$Admin$Yes																											
+L0095$Student_29$Can I use the library and gymnasium at any time?																											
+L0096$Admin$https://scd.univ-st-etienne.fr/fr/index.html																											
+L0097$Student_30$What is the average score of passing a subject?																											
+L0098$Admin$marks 10/20																											
+L0099$Student_30$Do I need to pass all the subject modules to validate the first year?																											
+L0100$Admin$Please refer the Student agreement. https://mldm.univ-st-etienne.fr/Student-Agreement-MLDM.pdf																											
+L0101$Student_30$If I fail the first year can I write repeat exams ?																											
+L0102$Admin$Please refer the administration. https://mldm.univ-st-etienne.fr/contacts.php																											
+L0103$Student_30$Can you provide the time table before the beginning of the semester?																											
+L0104$Admin$You will get the login to your MLDM account after the registration.																											
+L0105$Student_31$Any good restaurants and cafes to eat?																											
+L0106$Admin$https://www.google.com/search?q=Restuarants+and+cafes+in+Saint+Etienne&oq=Restuarants+and+cafes+in+Saint+Etienne&aqs=chrome..69i57j33l5.10739j0j8&sourceid=chrome&ie=UTF-8																											
+L0107$Student_32$What is the CAF?																											
+L0108$Admin$It is a financial assistant service. https://www.caf.fr/																											
+L0109$Student_33$What are the qualifications do you look to offer the scholarship?
+L0110$Admin$https://mldm.univ-st-etienne.fr/grants.php																											
+L0111$Student_34$Can we get private tutors?																											
+L0112$Admin$The university doesn't provide any private tutors. But you can hire your own tutor externally.																											
+L0113$Student_34$Does university support to learn French?																											
+L0114$Admin$Yes. There are programmes conducted by the university.																											
+L0115$Student_35$Does the university provide the doctors and medical facilities?																											
+L0116$Admin$No. You should consult a doctor in Saint Etienne.
+L0117$Student_36$I have a Bachelor's and Master's degree in physics. But I have the knowledge on computer science.Can I apply for this master program.	
+L0118$Admin$Please contact our academic advisors. https://mldm.univ-st-etienne.fr/contacts.php
+L0119$Student_37$The requirement to apply for this master is denoted as a degree in computer science, mathematics or statistics. I am coming from a different background. What should I do? 
+L0120$Admin$Please contact our academic advisors. https://mldm.univ-st-etienne.fr/contacts.php
+L0121$Student_38$I didn't follow a computer science degree. But I can prove my knowledge in computer science using my transcript records.
+L0122$Admin$Please contact our academic advisors. https://mldm.univ-st-etienne.fr/contacts.php
+L0123$Student_39$I have a German high school diploma(English B2 level). Is this enough for me to apply?
+L0124$Admin$Yes. Can you provide us the detail documents?
+L0125$Student_40$I haven'write IELTS or TOEFL yet. Is it enough to show that I have done my bachelors in English medium.
+L0126$Admin$Yes. Please send us the detail documents to prove that you have done the program in English medium.
+L0127$Student_41$Can I ask why did steering commitee reject my application?
+L0128$Admin$We receive every year more than 300 applications. Due to the large number of high-quality applications, we are forced to reject many interesting and deserving submissions, leading to an admission rate of about 10%.
+L0129$Student_42$why didn't I select for the master program?
+L0130$Admin$We receive every year more than 300 applications. Due to the large number of high-quality applications, we are forced to reject many interesting and deserving submissions, leading to an admission rate of about 10%.
+L0131$Student_43$what is the deadline for non Eu candidates?
+L0132$Admin$The deadline was May 15th 2019 for non Eu candidates.
+L0133$Student_44$When is the deadline for Europian union applicants?
+L0134$Admin$The deadline for the first intake is 15/05/2019, second intake  30/06/2019.
+L0135$Student_44$ What are the documents do I have to complete when apply for MLDM?
+L0136$Admin$Please visit our web site. https://mldm.univ-st-etienne.fr/admission.php
+L0137$Student_45$There was an one day delay of my application.What should I do?
+L0138$Admin$Please visit our web site. https://mldm.univ-st-etienne.fr/admission.php																							
