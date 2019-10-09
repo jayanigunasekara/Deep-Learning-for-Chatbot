@@ -7,5 +7,5 @@ This project is done for the MLDM website at University of Jean Monnet. This is 
 
 2)Run Main.py and open the application running in local host (http://127.0.0.1:5000). 
 
-3)This model is already trained, therefor you can directly start chatting. If there is any replacement in the data set, train the model again before start chatting.  
+3)This model is not trained. Train the model before start chatting.  
 
